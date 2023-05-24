@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bruno Carreira</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aluno24257&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/bruno-carreira" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
   </a>
@@ -46,19 +45,20 @@
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
+<h3 align="center">Support:</h3>
+<p align="center">
   <a href="https://www.buymeacoffee.com/brunocarreira" target="_blank" rel="noopener noreferrer">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
   <a href="https://ko-fi.com/BrunoCarreira" target="_blank" rel="noopener noreferrer">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
+
 <br><br>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluno24257&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluno24257&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
