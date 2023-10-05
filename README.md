@@ -48,5 +48,9 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" alt="Your GIF" />
+</p>
+
+<p align="center">
   📫 Contact me at <a href="mailto:brunocarreira2003@gmail.com">brunocarreira2003@gmail.com</a>
 </p>
